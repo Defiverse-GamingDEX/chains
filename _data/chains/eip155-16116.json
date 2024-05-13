@@ -16,7 +16,7 @@
   "explorers": [
     {
       "name": "DeFiVerse Explorer",
-      "url": "https://scan.defi-verse.org/",
+      "url": "https://scan.defi-verse.org",
       "icon": "defiverse",
       "standard": "EIP3091"
     }
